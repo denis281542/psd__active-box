@@ -20,11 +20,18 @@ body {
 }
 
 /* Header */
+.header {
+    
+}
+
 .header__inner {
     display: flex;
     justify-content: space-between;
+    padding: 35px;
+
+    border-bottom: 1px solid #515369;
 }
 
 .nav {
-    align-items: center;
+ 
 }
